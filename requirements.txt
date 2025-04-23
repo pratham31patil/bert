@@ -1,0 +1,6 @@
+Flask
+tensorflow
+sentence-transformers
+sklearn
+pandas
+numpy
